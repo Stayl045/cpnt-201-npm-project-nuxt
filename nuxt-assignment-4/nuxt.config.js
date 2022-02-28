@@ -32,8 +32,10 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    // "@storyblok/nuxt"
+    // https://github.com/storyblok/storyblok-nuxt
     '@storyblok/nuxt',
+    // https://image.nuxtjs.org/
+    '@nuxt/image',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
