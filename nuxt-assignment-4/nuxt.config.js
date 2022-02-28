@@ -36,6 +36,8 @@ export default {
     '@storyblok/nuxt',
     // https://image.nuxtjs.org/
     '@nuxt/image',
+    // https://github.com/nuxt-community/google-fonts-module
+    '@nuxtjs/google-fonts',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
