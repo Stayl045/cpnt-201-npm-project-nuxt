@@ -38,6 +38,8 @@ export default {
     '@nuxt/image',
     // https://github.com/nuxt-community/google-fonts-module
     '@nuxtjs/google-fonts',
+    // https://github.com/cipami/nuxt-lodash#readme
+    'nuxt-lodash',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
