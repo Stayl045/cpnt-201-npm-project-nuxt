@@ -2,9 +2,22 @@
 
 ## Repo
 
-## Pages
+https://github.com/Stayl045/cpnt-201-npm-project-nuxt
 
 ## Code Journal Plan
+
+- This assignment seemed complex (which it was to me) but was very fun to learn the ins and outs of how to install nuxt and add modules to it.
+  - I am excited to see where we can go with this as we start using these tools more.
+
+### Note Worth Information
+
+- I just want to let you know that I based this assignment as I was following you on Thursday. Therefore, I have a parent folder. I am not sure if this is necessary. I didn't want to delete it as I was worried I might break something. I hope this is okay.
+
+- I also added extra commits as there are a couple that where accidents and had no relevant context (1, 9 of the list are those)
+
+### Struggles
+
+- I couldn't figure out how to resolve the vulnerabilities for fear of breaking something. So I left that point unavailable to me.
 
 ### Git Commits
 
@@ -19,6 +32,7 @@
 9.  added another commit (Hashes: caed3381c7dacb8c5d5c5b2e53529a96c5401f86)
 10. added NPM Package Links to readme (Hashes: 4391185c0fc5748a431af32822b8d7d437a15d6f)
 11. added hashes to git commits in readme (Hashes: 726fe3af46722c767eb1414be023932f0b7c5e0c)
+12. added comments to npm package links and mode text around the readme folder (Hashes: b37cca2ac5bf2852a33abdfb12ff5dd99b4e31a6)
 
 ### NPM Package Links
 
@@ -33,9 +47,6 @@
 - [Tailwindcss](https://tailwindcss.nuxtjs.org/)
   - Part of the rubric.
 
-### Struggles
-
 ### Attributions
 
-- Jessica helped me figure out how to remove a `.gitignore` from my repo. I really appreciated that from her.
-- Imcneel `gist` to remove-node-modules
+- Maryam helped me in terms of letting me know where the modules go once we install them.
