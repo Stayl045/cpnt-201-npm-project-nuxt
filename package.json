@@ -1,0 +1,23 @@
+{
+  "name": "cpnt-201-npm-project-nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stayl045/cpnt-201-npm-project-nuxt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stayl045/cpnt-201-npm-project-nuxt/issues"
+  },
+  "homepage": "https://github.com/Stayl045/cpnt-201-npm-project-nuxt#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
