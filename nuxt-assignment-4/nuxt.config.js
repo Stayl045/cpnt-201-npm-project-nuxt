@@ -24,7 +24,11 @@ export default {
   plugins: [],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
-  components: true,
+  components: [
+    '~components',
+    '~components/storyblok',
+    '~components/storyblok/ui',
+  ],
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
@@ -33,13 +37,25 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     // https://github.com/storyblok/storyblok-nuxt
-    '@storyblok/nuxt',
+    // '@storyblok/nuxt',
     // https://image.nuxtjs.org/
     '@nuxt/image',
     // https://github.com/nuxt-community/google-fonts-module
     '@nuxtjs/google-fonts',
     // https://github.com/cipami/nuxt-lodash#readme
     'nuxt-lodash',
+    // https://github.com/storyblok/storyblok-nuxt
+    '@nuxtjs/composition-api/module',
+
+    // [
+    //   '@storyblok/nuxt/module',
+    //   {
+    //     accessToken: process.env.STORYBLOK_API_KEY,
+    //     bridge: true,
+    //     apiOptions: {},
+    //     useApiClient: true,
+    //   },
+    // ],
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
